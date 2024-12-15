@@ -90,7 +90,7 @@ Follow these instructions to set up the project locally using XAMPP.
    - Clone the repository:
 
      ```bash
-     git clone https://github.com/username/ecommerce-website.git
+        git clone https://github.com/Bishwajit-2810/Software-Project-3.git
      ```
 
 5. Configure the database:

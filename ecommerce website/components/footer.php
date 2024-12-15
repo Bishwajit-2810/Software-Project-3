@@ -28,10 +28,10 @@
 
       <div class="box">
          <h3>follow us</h3>
-         <a href="#"><i class="fab fa-facebook-f"></i>facebook</a>
-         <a href="#"><i class="fab fa-twitter"></i>twitter</a>
-         <a href="#"><i class="fab fa-instagram"></i>instagram</a>
-         <a href="#"><i class="fab fa-linkedin"></i>linkedin</a>
+         <a href="https://www.facebook.com/bishwajit.2810"><i class="fab fa-facebook-f"></i>facebook</a>
+         <a href="https://x.com/Bishwajit_2810"><i class="fab fa-twitter"></i>twitter</a>
+         <a href="https://www.instagram.com/bishwajit_2810/"><i class="fab fa-instagram"></i>instagram</a>
+         <a href="https://www.linkedin.com/in/bishwajit-chakraborty/"><i class="fab fa-linkedin"></i>linkedin</a>
       </div>
 
    </section>
